@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1676060574450' stop='1676060615309'>
+    <name>Acessar painel admin</name>
+    <title>Acessar painel admin</title>
+    <test-cases>
+        <test-case start='1676060574451' status='passed' stop='1676060615286'>
+            <name>Deve fazer login com sucesso</name>
+            <title>Deve fazer login com sucesso</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='device' value='ebac-aula 10.0-10'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Execution video' source='777a2cbd-c6d5-49a5-8eaf-6c16447e83f0-attachment.mp4' type='video/mp4' size='165'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
